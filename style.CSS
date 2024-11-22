@@ -10,16 +10,16 @@
   }
   
   .nadpis1 {
-    color: #fc0000;
+    color: #fc0000;font-family: 'Courier New', Courier, monospace;
 
   }
   
   .nadpis2 {
-    color: #3cb371; 
+    color: #3cb371;text-shadow: black;
   }
   
   .nadpis3 {
-    color: #1e90ff; 
+    color: #1e90ff;text-align: center;
   }
   
   .roman-list {
