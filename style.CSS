@@ -1,0 +1,60 @@
+/* Pozadí stránky */
+.background {
+    background-image: url("https://th.bing.com/th/id/OIP.8ueAIp2dIMsrxb3spfHymAHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 20px;
+    color: white; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .nadpis1 {
+    color: #fc0000;
+
+  }
+  
+  .nadpis2 {
+    color: #3cb371; 
+  }
+  
+  .nadpis3 {
+    color: #1e90ff; 
+  }
+  
+  .roman-list {
+    list-style-type: upper-roman;
+    padding-left: 20px;
+  }
+  
+  .item1 {
+    color: #ff4500; 
+  }
+  
+  .item2 {
+    color: #32cd32; 
+  }
+  
+  .item3 {
+    color: #8a2be2; 
+  }
+  
+ 
+  .bullet-list {
+    list-style-type:lower-latin
+  }
+  
+  .circle {
+    list-style-type: circle;
+    color: white;
+  }
+  
+  .square {
+    list-style-type: square;
+    color: white;
+  }
+  
+  .disc {
+    list-style-type: disc;
+    color: white;
+  }
