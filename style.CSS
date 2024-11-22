@@ -46,15 +46,15 @@
   
   .circle {
     list-style-type: circle;
-    color: white;
+    color: blue;
   }
   
   .square {
     list-style-type: square;
-    color: white;
+    color: greenyellow;
   }
   
   .disc {
     list-style-type: disc;
-    color: white;
+    color: yellow;
   }
